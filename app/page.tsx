@@ -30,5 +30,6 @@ export default function Home() {
       </form>
     </div>
   )
-
+npm run dev
+  
 
